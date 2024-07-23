@@ -12,7 +12,7 @@ I'm currently working on solving LeetCode problems and improving my coding skill
 
 ## Feedback
 
-Your feedback is valuable to me! Please share any suggestions or improvements you think can help me on my journey. If you have any advice non how to start as a beginner and any mistakes to avoid please tell me <3
+Your feedback is valuable to me! Please share any suggestions or improvements you think can help me on my journey. If you have any advice on how to start as a beginner and any mistakes to avoid please tell me <3
 
 Thanks for visiting!
 
