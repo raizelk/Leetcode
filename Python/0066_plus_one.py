@@ -14,3 +14,4 @@ class Solution:
                 digits[i] += 1
                 return digits
         return [1] + digits
+#33 ms and 15.7 MB
