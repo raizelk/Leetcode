@@ -2,7 +2,8 @@
 
 Updates on what I am doing ⸜( ˃ ᵕ ˂ )⸝♡
 
-## Problem Order
+## Order
+The order i attempted problems in:
 
 - 1
 - 26
