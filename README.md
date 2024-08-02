@@ -1,6 +1,6 @@
 # Hi, I'm Raizel
 
-Welcome to my GitHub! I just started my LeetCode journey and am excited to share my progress. If you have any suggestions for improvements, please feel free to share.
+Welcome to my GitHub! I just started my DSA journey and am excited to share my progress. If you have any suggestions for improvements, please feel free to share.
 
 ## About Me
 
