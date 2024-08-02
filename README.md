@@ -14,7 +14,7 @@ I'm currently working on solving LeetCode problems and improving my coding skill
 
 Your feedback is valuable to me! Please share any suggestions or improvements you think can help me on my journey. If you have any advice on how to start as a beginner and any mistakes to avoid please tell me <3
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/raizel-khanna-75b978291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+![LinkedIn Logo](https://cdn-icons-png.flaticon.com/512/174/174857.png) [Connect with me on LinkedIn](https://www.linkedin.com/in/raizel-khanna-75b978291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Thanks for visiting!
 
